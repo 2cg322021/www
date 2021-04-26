@@ -1,0 +1,67 @@
+body
+{
+background-color: 	#302281;
+font-family: Verdana;
+font-size: 24px;
+color: rgb(108, 62, 146);
+}
+#container
+{
+	padding-top: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom:50px;
+	background-color: #74b9d4;
+	margin: auto;
+    width: 1000px;
+}
+#aktualnaData
+{
+	  text-align: center;
+    border: 3px solid #808080;
+}
+#dniDoWydarzenia
+{
+	  text-align: center;
+    border: 3px solid #808080;
+}
+#doWydarzenia
+{
+	  text-align: center;
+    border: 3px solid #808080;
+}
+
+#dataWydarzenia
+{
+	  text-align: center;
+    border: 3px solid #808080;
+}
+
+#description
+{
+	text-align: center;
+	border: 3px solid #808080;
+}
+
+#footer
+{
+	color: #808080;
+	margin-top: 50px;
+	padding: 10px;
+	font-size: 12px;
+	text-align: center;
+    border: 3px solid blue;
+	letter-spacing: 3px;
+}
+#topBar
+{
+	
+	color: #808080;
+	padding: 10px;
+	font-size: 18px;
+	text-align: center;
+    border: 3px solid blue;
+	letter-spacing: 3px;
+	margin-bottom: 50px;
+}
+© 2021 GitHub, Inc.
